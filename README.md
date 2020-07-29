@@ -1,6 +1,6 @@
 # WebScraping with NodeJS
 
-## Paquetes
+## Packages
 
 * Cheerio
 * Request
